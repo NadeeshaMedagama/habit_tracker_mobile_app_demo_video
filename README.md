@@ -16,12 +16,8 @@ This repository includes a demo video showcasing the app's features and function
 
 - React Native
 - JavaScript/TypeScript
-- (Add any other technologies you used)
+- React Navigation
+- AsyncStorage
 
-## Getting Started
 
-(Optional - you can add basic installation/usage instructions if you want to share the code)
 
-## License
-
-(Add your license if applicable)
