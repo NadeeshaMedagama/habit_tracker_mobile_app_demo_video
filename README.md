@@ -1,4 +1,4 @@
-# Habit Tracker Mobile App
+# Habit Tracker Mobile App Demo Video
 
 A habit tracking application built with React Native.
 
